@@ -2,7 +2,7 @@
 
 Drive: https://drive.google.com/drive/folders/1J2cpcVi6bOuglLaGMZeBH0MTMXqwUa8v?usp=sharing
 
-Report: 
+Report: https://youtu.be/JOsYskj4xys
 
 In this project, I set out to analyze historical data from the Indian Premier League (IPL) to uncover meaningful insights about teams, players, and match outcomes. The IPL is one of the most followed sporting events in the world, and I wanted to use data analytics to better understand its patterns, trends, and key performers. To achieve this, I worked with ball by ball data as well as match level datasets, applying Python libraries such as Pandas for data processing and Matplotlib and Seaborn for visualizations.
 
